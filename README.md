@@ -15,15 +15,12 @@ I'm a full stack java developer👩‍💻, a filmmaker🎬 and a photographer �
  	- ⚡HTML.
 	- ⚡CSS + Bootstrap.
 	- ⚡JavaScript (ES6+).
-	-⚡ HTML.
-  	-⚡ CSS + Bootstrap.
-  	-⚡ JavaScript (ES6+).
-  	-⚡ Vue js 3.
-  	-⚡ JAVA.
-  	-⚡ Gradel + Hibernate.
-  	-⚡ Api + REST.
-  	-⚡ Postman.
-  	-⚡ GIT + GitHub
+	- ⚡Vue js 3.
+	- ⚡JAVA.
+	- ⚡Gradel + Hibernate.
+	- ⚡Api + REST.
+	- ⚡Postman.
+	- ⚡GIT + Github.
 
 Because of my artsy background I have this extra knowledge:
 -💻 Adobe Photoshop.
