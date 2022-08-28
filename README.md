@@ -6,12 +6,7 @@ I'm a full stack java developer👩‍💻, a filmmaker🎬 and a photographer �
 
 🎉I recently graduate from MindHub LA's bootcamp.
 
-- **Competitive Programming**
-	- Python ❤️
-	- C++
-	- Some Java
-
-- **Let me tell you the technologies that I use:**
+**Let me tell you the technologies that I use:**
  	- ⚡HTML.
 	- ⚡CSS + Bootstrap.
 	- ⚡JavaScript (ES6+).
