@@ -12,7 +12,10 @@ I'm a full stack java developer👩‍💻, a filmmaker🎬 and a photographer �
 	- Some Java
 
 - **Let me tell you the technologies that I use:**
-   	-⚡ HTML.
+ 	- Python ❤️
+	- C++
+	- Some Java
+	-⚡ HTML.
   	-⚡ CSS + Bootstrap.
   	-⚡ JavaScript (ES6+).
   	-⚡ Vue js 3.
