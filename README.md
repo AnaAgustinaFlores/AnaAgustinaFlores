@@ -12,15 +12,15 @@ I'm a full stack java developer👩‍💻, a filmmaker🎬 and a photographer �
 	- Some Java
 
 - **Let me tell you the technologies that I use:**
-   -⚡ HTML.
-  -⚡ CSS + Bootstrap.
-  -⚡ JavaScript (ES6+).
-  -⚡ Vue js 3.
-  -⚡ JAVA.
-  -⚡ Gradel + Hibernate.
-  -⚡ Api + REST.
-  -⚡ Postman.
-  -⚡ GIT + GitHub
+   	-⚡ HTML.
+  	-⚡ CSS + Bootstrap.
+  	-⚡ JavaScript (ES6+).
+  	-⚡ Vue js 3.
+  	-⚡ JAVA.
+  	-⚡ Gradel + Hibernate.
+  	-⚡ Api + REST.
+  	-⚡ Postman.
+  	-⚡ GIT + GitHub
 
 Because of my artsy background I have this extra knowledge:
 -💻 Adobe Photoshop.
