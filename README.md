@@ -17,7 +17,6 @@ I'm a full stack java developer👩‍💻, a filmmaker🎬 and a photographer �
 	- ⚡Postman.
 	- ⚡GIT + Github.
 	
-<img width="35%" align="left" alt="Github" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" />
 - **Because of my artsy background I have this extra knowledge:**
 	- 💻Adobe Photoshop.
 	- 💻Adobe Lightroom.
