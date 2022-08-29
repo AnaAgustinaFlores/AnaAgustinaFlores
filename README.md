@@ -12,7 +12,7 @@ I'm a full stack java developer👩‍💻, a filmmaker🎬 and a photographer �
 	- ⚡JavaScript (ES6+).
 	- ⚡Vue js 3.
 	- ⚡JAVA.
-	- ⚡Gradel + Hibernate.
+	- ⚡Gradle + Hibernate.
 	- ⚡Api + REST.
 	- ⚡Postman.
 	- ⚡GIT + Github.
