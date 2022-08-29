@@ -17,12 +17,6 @@ I'm a full stack java developer👩‍💻, a filmmaker🎬 and a photographer �
 	- ⚡Postman.
 	- ⚡GIT + Github.
 	
-- **Because of my artsy background I have this extra knowledge:**
-	- 💻Adobe Photoshop.
-	- 💻Adobe Lightroom.
-	- 💻Adobe Premiere Pro.
-	- 💻Adobe After Effects.
-
 - **The technologies that I'm currently learning:**
 	- ⚡React.
 	- ⚡MySQL.
@@ -30,6 +24,12 @@ I'm a full stack java developer👩‍💻, a filmmaker🎬 and a photographer �
 - **The ones I'm planing to learn:**
 	- ⚡NodeJS.
 	- ⚡Figma.
+	
+- **Because of my artsy background I have this extra knowledge:**
+	- 💻Adobe Photoshop.
+	- 💻Adobe Lightroom.
+	- 💻Adobe Premiere Pro.
+	- 💻Adobe After Effects.
 
 - **👁️‍🗨️ I’m currently job seeking for my first IT job.**
 	- 📫How to reach me: [Linkedin](https://www.linkedin.com/in/ana-agustina-flores/) [Email](mailto:floresanagustina@hotmail.com)
