@@ -25,7 +25,7 @@ I'm a full stack java developer👩‍💻, a filmmaker🎬 and a photographer �
 	- ⚡NodeJS.
 	- ⚡Figma.
 	
-- **Because of my artsy background I have this extra knowledge:**
+- **Extra knowledge from my artsy side:**
 	- 💻Adobe Photoshop.
 	- 💻Adobe Lightroom.
 	- 💻Adobe Premiere Pro.
